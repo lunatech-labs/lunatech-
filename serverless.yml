@@ -54,8 +54,8 @@ custom:
     slim: True
 
   customDomain:
-    domainName: apis.muhammetcan.net
+    domainName: technews-bot.lunatech.com
     basePath: slack
-    certificateName: 'apis.muhammetcan.net'
+    certificateName: 'technews-bot.lunatech.com'
     createRoute53Record: true
     endpointType: 'regional'
